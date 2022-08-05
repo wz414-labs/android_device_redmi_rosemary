@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+    <remote name="wz414-labs" fetch="https://github.com/wz414-labs" />
+    <project remote="wz414-labs" name="android_device_redmi_rosemary" revision="proton/rvc" path="device/redmi/rosemary" />
+    <project remote="wz414-labs" name="android_vendor_redmi_rosemary" revision="proton/rvc" path="vendor/redmi/rosemary" clone-depth="1" />
+</manifest>

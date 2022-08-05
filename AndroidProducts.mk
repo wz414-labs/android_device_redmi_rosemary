@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(wildcard $(LOCAL_DIR)/kasumi_rosemary.mk)
+    $(wildcard $(LOCAL_DIR)/rosemary.mk)
 
 COMMON_LUNCH_CHOICES := \
-    kasumi_rosemary-user \
-    kasumi_rosemary-userdebug \
-    kasumi_rosemary-eng
+    rosemary-user \
+    rosemary-userdebug \
+    rosemary-eng

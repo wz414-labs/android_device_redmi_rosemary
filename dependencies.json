@@ -1,0 +1,7 @@
+[
+  {
+    "repository": "wz414-labs/android_vendor_redmi_rosemary",
+    "target_path": "vendor/redmi/rosemary",
+    "branch": "proton-rvc"
+  }
+]
